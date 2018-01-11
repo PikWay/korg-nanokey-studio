@@ -1,0 +1,14 @@
+version={0,0,1}
+
+function remote_supported_control_surfaces()
+ local surfaces = 
+ {
+  { manufacturer="Korg", model="nanoKEYStudio",
+	source="nanoKEYStudio.lua", picture="nanoKEY.png",
+	in_ports={{description="In Port"}},
+	out_ports={{description="Out Port", optional=true}},
+	has_keyboard=true
+  },
+ }
+ return surfaces
+end

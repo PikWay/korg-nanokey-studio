@@ -1,0 +1,70 @@
+﻿Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Korg
+Control Surface Model	nanoKEYStudio
+Map Version	1.4.2
+
+Scope	Propellerheads	Master Keyboard
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Keyboard		Keyboard
+Map	Pitch Bend		Pitch Bend
+Map	Mod		Mod Wheel
+
+
+Scope	Propellerheads	Combinator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Knob 1_1		Rotary 1
+Map	Knob 1_2		Rotary 2
+Map	Knob 1_3		Rotary 3
+Map	Knob 1_4		Rotary 4
+Map	Sustain 1		Button 1
+
+
+Scope	Propellerheads	Dr.REX Loop Player
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	X_Pad		Filter Freq
+Map	Y_Pad		Filter Res
+
+Map	Pads	G1	Select Loop 1
+Map	Pads	C2	Select Loop 2
+Map	Pads	D2	Select Loop 3
+Map	Pads	C#2	Select Loop 4
+
+Map	Pads	C1	Select Loop 5
+Map	Pads	D1	Select Loop 6
+Map	Pads	F#1	Select Loop 7
+Map	Pads	A#1	Select Loop 8
+
+
+Scope	Propellerheads	SubTractor Analog Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	X_Pad		Filter Freq
+Map	Y_Pad		Filter Res
+Map	Knob 1_1		Filter2 Freq
+Map	Knob 1_2		Filter2 Res
+Map	Knob 1_3		Filter Env Attack
+Map	Knob 1_4		Filter Env Decay
+Map	Knob 1_5		Filter Env Sustain
+Map	Knob 1_6		Filter Env Release
+
+Scope	Propellerheads	Malstrom Graintable Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	X_Pad		Filter A Freq
+Map	Y_Pad		Filter A Resonance
+Map	Knob 1_1		Filter B Freq
+Map	Knob 1_2		Filter B Resonance
+Map	Knob 1_3		Filter Env Attack
+Map	Knob 1_4		Filter Env Decay
+Map	Knob 1_5		Filter Env Sustain
+Map	Knob 1_6		Filter Env Release
+
+Scope	Propellerheads	NN19 Digital Sampler
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	X_Pad		Filter Freq
+Map	Y_Pad		Filter Res
+
+
+Scope	Propellerheads	NN-XT Advanced Sampler
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	X_Pad		Filter Freq
+Map	Y_Pad		Filter Res
