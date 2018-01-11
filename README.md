@@ -15,4 +15,4 @@ Autodetect is not working.
 Only minimal mapping is done (Keyboard, Malstorm, SubTractor, OctoREX). Please check remotemap file for details. 
 Feel free to modify or addapt to your needs. 
 
-This is based on not modified controller setup (default) - if ypu've changed anything in Korg Controll Editor - it might not work. 
+This is based on not modified controller setup (default) - if you've changed anything in Korg Controll Editor - it might not work. 
