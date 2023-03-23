@@ -7,9 +7,11 @@ Only one "Sustain" button (in Scene 1) is configured
 
 Installation:
 
-nanoKEYStudio.remotemap -> ex. C:\ProgramData\Propellerhead Software\Remote\Maps\Korg
+nanoKEYStudio.remotemap -> 
+ex. C:\ProgramData\Propellerhead Software\Remote\Maps\Korg
 
-nanoKEYStudio.lua and nanoKEYStudio.luacodec -> ex. C:\ProgramData\Propellerhead Software\Remote\Codecs\Lua Codecs\Korg
+nanoKEYStudio.lua and nanoKEYStudio.luacodec nanoKEYStudio.png -> 
+ex. C:\ProgramData\Propellerhead Software\Remote\Codecs\Lua Codecs\Korg
 
 Autodetect is not working. 
 
